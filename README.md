@@ -28,7 +28,28 @@ Feel free to explore these materials to gain insights and inspiration for your o
 
 ## Getting Started
 
-To get started with this repository, follow these steps:
+To get started with this repository, follow these links:
+
+- [If, Elif, Else Statements](https://github.com/hullchar/AnalystBuilderWorksheets/blob/main/Use%20if%2C%20elif%2C%20else%20statements%20to%20make%20decisions.ipynb)
+- [Lists](https://github.com/hullchar/AnalystBuilderWorksheets/blob/main/Lists.md)
+- [While Loops](https://github.com/hullchar/AnalystBuilderWorksheets/blob/main/Introduction%20to%20While%20Loops.ipynb)
+- [WorkShop 1](https://github.com/hullchar/AnalystBuilderWorksheets/blob/main/Analyst%20Builder%20Workshops.md)
+- [Workshop 2](https://github.com/hullchar/AnalystBuilderWorksheets/blob/main/Analyst%20Builder%20Workshops%202.md)
+- [Workshop 3](https://github.com/hullchar/AnalystBuilderWorksheets/blob/main/Analyst%20Builder%20Workshop%203.md)
+- [Workshop 4](https://github.com/hullchar/AnalystBuilderWorksheets/blob/main/Analyst%20Builder%20Workshop%204.md)
+- [Workshop 5](https://github.com/hullchar/AnalystBuilderWorksheets/blob/main/Analyst%20Builder%20Workshop%205.md)
+- [Variables & Expressions](https://github.com/hullchar/AnalystBuilderWorksheets/blob/main/Analyst%20Builder%20-%20Variables%20%26%20Expressions%20.md)
+- [Variable Thought Experiment](https://github.com/hullchar/AnalystBuilderWorksheets/blob/main/Analyst%20Builder%20-%20Variable%20Thought%20Experiment.md)
+- [Variable Naming Best Practices](https://github.com/hullchar/AnalystBuilderWorksheets/blob/main/Analyst%20Builder%20-%20Variable%20Naming%20Best%20Practices.md)
+- [Tuples](https://github.com/hullchar/AnalystBuilderWorksheets/blob/main/Analyst%20Builder%20-%20Tuples.md)
+- [Slicing Variables](https://github.com/hullchar/AnalystBuilderWorksheets/blob/main/Analyst%20Builder%20-%20Slicing%20Variables.md)
+- [Sets](https://github.com/hullchar/AnalystBuilderWorksheets/blob/main/Analyst%20Builder%20-%20Sets.md)
+- [Membership Operators](https://github.com/hullchar/AnalystBuilderWorksheets/blob/main/Analyst%20Builder%20-%20Membership%20Operators.ipynb)
+- [Logical Operators](https://github.com/hullchar/AnalystBuilderWorksheets/blob/main/Analyst%20Builder%20-%20Logical%20Operators.ipynb)
+- [Dictionaries](https://github.com/hullchar/AnalystBuilderWorksheets/blob/main/Analyst%20Builder%20-%20Dictionaries.md)
+- [Assignment Operators](https://github.com/hullchar/AnalystBuilderWorksheets/blob/main/Analyst%20Builder%20-%20Assignment%20Operators.ipynb)
+- [Assigning Multiple Values and Concatenation](https://github.com/hullchar/AnalystBuilderWorksheets/blob/main/Analyst%20Builder%20-%20Assigning%20Mutliple%20Values%20and%20Concatenation%20.md)
+- [Arithmetic Operators](https://github.com/hullchar/AnalystBuilderWorksheets/blob/main/Analyst%20Builder%20-%20Arithmetic%20Operators.ipynb)
 
 1. **Clone the repository:**
 
