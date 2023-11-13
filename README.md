@@ -50,6 +50,7 @@ To get started with this repository, follow these links:
 - [Assignment Operators](https://github.com/hullchar/AnalystBuilderWorksheets/blob/main/Analyst%20Builder%20-%20Assignment%20Operators.ipynb)
 - [Assigning Multiple Values and Concatenation](https://github.com/hullchar/AnalystBuilderWorksheets/blob/main/Analyst%20Builder%20-%20Assigning%20Mutliple%20Values%20and%20Concatenation%20.md)
 - [Arithmetic Operators](https://github.com/hullchar/AnalystBuilderWorksheets/blob/main/Analyst%20Builder%20-%20Arithmetic%20Operators.ipynb)
+- [For Loops](https://github.com/hullchar/AnalystBuilderWorksheets/blob/main/For%20Loops.ipynb)
 
 1. **Clone the repository:**
 
