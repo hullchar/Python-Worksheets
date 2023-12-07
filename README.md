@@ -1,6 +1,6 @@
 # Analyst Builder Program Examples and Worksheets
 
-Welcome to my GitHub repository showcasing examples and worksheets from the Analyst Builder Program by Alex Freberg (Alex the Analyst). This repository is a collection of Python code and Jupyter notebooks that I've created as part of the program. Whether you're a fellow program participant or someone interested in data analysis, you'll find valuable content here.
+Welcome to my GitHub repository showcasing examples and worksheets from the Analyst Builder Program by Alex Freberg (Alex the Analyst) and Google Data Analytics through Coursera. This repository is a collection of Python code and Jupyter notebooks that I've created as part of the programs. Whether you're a fellow program participant or someone interested in data analysis, you'll find valuable content here.
 
 ## Table of Contents
 
@@ -14,6 +14,8 @@ Welcome to my GitHub repository showcasing examples and worksheets from the Anal
 ## Program Overview
 
 The [Analyst Builder Program](https://www.analystbuilder.com/), developed by Alex Freberg (Alex the Analyst), is a comprehensive course designed to help individuals build essential data analysis skills. This program covers various topics in data analytics and visualization, and it's a fantastic resource for anyone looking to advance their career in data analysis.
+
+The [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/programs/act-now-education-on-demand-training-program-b4wxq/professional-certificates/google-advanced-data-analytics) is a professional certificate that expands of data analytics with useable tools and tricks for professionals at all levels. 
 
 ## Contents
 
